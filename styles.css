@@ -1,0 +1,12 @@
+
+.textCenter{
+    text-align: center;
+  }
+  
+  .paddingBottom{
+  padding-bottom: 10px;
+  }
+
+  .btnAddCompanyInfo{
+    float: right;
+  }
